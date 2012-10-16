@@ -1,0 +1,22 @@
+#container{
+margin:0 auto;
+}
+
+.item{
+width:420px;
+height:330px;
+margin:10px;
+float:left;
+background-color:#ccffcc;
+color:#333333;
+}
+
+.small{
+width:200px;
+height:330px;
+}
+
+.big{
+width:420px;
+height:450px;
+}

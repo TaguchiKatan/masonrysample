@@ -1,0 +1,15 @@
+.item{
+width:420px;
+margin:10px;
+float:left;
+background-color:#ccffcc;
+color:#333333;
+}
+
+.small{
+width:200px;
+}
+
+.big{
+width:640px;
+}
